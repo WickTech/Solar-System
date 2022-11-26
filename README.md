@@ -3,9 +3,11 @@ Live Vercel APP https://solar-system-ten-bice.vercel.app/
 
 #Created Using 
 
-#1.Pug 
-#2.Stylus
-#3.JavaScript
+1.Pug 
+
+2.Stylus
+
+3.JavaScript
 
 
 <img src="/Solar System.png">
