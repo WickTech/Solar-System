@@ -10,7 +10,7 @@ Live Vercel APP https://solar-system-ten-bice.vercel.app/
 3.JavaScript for Only Planetary Postioning
 
 
-<img src="/solar system.png">
+<img src="./solar system.png">
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/wicktech/pen/oNydMxG](https://codepen.io/wicktech/pen/oNydMxG).
 
